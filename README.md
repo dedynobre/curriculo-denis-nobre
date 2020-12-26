@@ -60,7 +60,7 @@ tecnologias e protocolos disponíveis no mercado.
 
 ## Experiência Profissional
 
-+ Kinross Brasil Mineração
++ **Kinross Brasil Mineração**
 
     + Analista SR Automação
     + Técnico Automação SR
