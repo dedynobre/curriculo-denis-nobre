@@ -3,10 +3,12 @@
 <br>
 Curriculo Denis Nobre
 </h1>
+
+## Resumo
 Especialista em automação industrial focado em desenvolvimento e integração de sistemas usando as mais diversas
 tecnologias e protocolos disponíveis no mercado.
 
-Tecnologias e protocolos:
++ Tecnologias e protocolos:
 
 - APIs
 - Websockets
@@ -16,14 +18,14 @@ Tecnologias e protocolos:
 - IOT
 - IIOT
 
-Banco de dados:
++ Banco de dados:
 
 - MS SQL Server
 - SQLite
 - MySQL
 - InfluxDB
 
-Conhecimento em linguagens de programação:
++ Conhecimento em linguagens de programação:
 
 - VB/VBA
 - C#
@@ -31,12 +33,12 @@ Conhecimento em linguagens de programação:
 - Javascript
 - Python
 
-Sistemas operacionais:
++ Sistemas operacionais:
 
 - Linux - Debian/Ubuntu
 - Windows - Windows Server 2003/2008/2012
 
-Conhecimentos avançados em automação e elétrica industrial:
++ Conhecimentos avançados em automação e elétrica industrial:
 
 - Administração Sistemas PIMS(OSISoft)
 - Sistemas LIMS
@@ -46,7 +48,7 @@ Conhecimentos avançados em automação e elétrica industrial:
 - Inversores de frequência de baixa e média tensão
 - Relés inteligentes de baixa e média tensão
 
-Projetos desenvolvidos
++ Projetos desenvolvidos
 
 - Desenvolvido chatbot com Telegram para visualização de dados de processo
 - KPIs para malhas de controle usando PI AF/Coresight
