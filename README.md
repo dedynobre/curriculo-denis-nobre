@@ -58,7 +58,20 @@ tecnologias e protocolos disponíveis no mercado.
     - Utilização de Telegram como envio de notificações baseados com dados de processo
     - Integrado software Concept(Schneider) para visualização de eventos em tempo real 
 
+## Experiência Profissional
 
++ Kinross Brasil Mineração
 
-Detalhes de desenvolvimentos:
-https://github.com/dedynobre
+    + Analista SR Automação
+    + Técnico Automação SR
+    + Técnico Eletricista SR
+    + Tecnico Eletricista PL
+    + Técnico Eletricista
+
++ Mineração Maracá
+
+    + Eletricista
+
++ Companhia CedroNorte
+
+    + Eletricista
