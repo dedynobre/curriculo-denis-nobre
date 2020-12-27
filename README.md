@@ -102,7 +102,7 @@ tecnologias e protocolos disponíveis no mercado.
 
 ## Formação Acadêmica
 
-+ **Pós em Automação Industrial**
++ **Especialização em Automação Industrial**
     + Unversidade Candido Mendes - Abril/2019
 
 + **Graduação Sistemas de Informação**
