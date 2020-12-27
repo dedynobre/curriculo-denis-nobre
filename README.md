@@ -108,3 +108,16 @@ tecnologias e protocolos disponíveis no mercado.
     - *Eletricista*             - (agosto/2005    .. setembro/2006)
         - Manutenção em equipamentos de fiação e tecidos em geral
         - Manutencao em motores elétricos, painés e inversores
+
+
+## Formação Acadêmica
+
++ **Pós emAutomação Industrial**
+    + Unversidade Candido Mendes - Abril/2019
+
++ **Graduação Sistemas de Informação**
+    + Faculdade Albert Einstein - Agosto/2014
+
++ **Ténico em Eletrotécnica**
+    + Escola Técnica Alto Médio São Francisco - Dezembro/2005
+
