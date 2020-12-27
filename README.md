@@ -63,15 +63,48 @@ tecnologias e protocolos disponíveis no mercado.
 + **Kinross Brasil Mineração**
 
     - *Analista SR Automação*   - (outubro/2015   .. atual)
-    - *Técnico Automação SR*    - (abril/2012     .. setembro/2015)        
+        - Administração sistema PIMS.
+        - Administração sistema MES.
+        - Integração de sistemas e aplicações usando python/javascript/nodejs.
+        - Integrações de sistema via HTTP Requests/APIs/Websockets.
+
+    - *Técnico Automação SR*    - (abril/2012     .. setembro/2015) 
+        - Administração sistema PIMS.
+        - Implantação sistema supervisório Factory Talk.
+        - Programação de PLC's e sistemas híbridos ABB, Siemens e Schineider.
+        - Configuração e administração de servidores em ambientes Windows Server 2003/2008.
+        - Controle de Processos industriais em geral.
+        - Configuração de redes industriais.
+
     - *Técnico Eletricista SR*  - (abril/2010     .. março/2012)
+        - Manutenção elétrica e automação em geral.
+        - Resolução de problemas em comando elétricos.
+        - Configuração e parametrização de inversores de baixa e média tensão.
+        - Configuração de relés inteligentes.
+
     - *Tecnico Eletricista PL*  - (março/2009     .. março/2010)
+        - Manutenção elétrica e automação em geral.
+        - Resolução de problemas em comando elétricos.
+        - Configuração e parametrização de inversores de baixa e média tensão.
+        - Configuração de relés inteligentes.
+
     - *Técnico Eletricista*     - (fevereiro/2008 .. março/2009)
+        - Manutenção elétrica e automação em geral.
+        - Resolução de problemas em comando elétricos.
+        - Configuração e parametrização de inversores de baixa e média tensão.
+        - Configuração de relés inteligentes.
 
 + **Mineração Maracá**
 
     - *Eletricista*             - (outubro/2006   .. fevereiro/2008)
+        - Manutenção preventiva e corretiva em equipamentos industriais de grande porte
+        - Motores de baixa, média e alta tensão
+        - Moinhos SAG e moinhos de bolas
+        - Inversores Weg de baixa e média tensão
+        - DCS Honeywell e Rockwell.
 
-+ **Companhia CedroNorte**
++ **Cia. Fiação e Tecidos Cedronorte**
 
     - *Eletricista*             - (agosto/2005    .. setembro/2006)
+        - Manutenção em equipamentos de fiação e tecidos em geral
+        - Manutencao em motores elétricos, painés e inversores
