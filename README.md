@@ -62,16 +62,16 @@ tecnologias e protocolos disponíveis no mercado.
 
 + **Kinross Brasil Mineração**
 
-    - *Analista SR Automação*
-    - *Técnico Automação SR*
-    - *Técnico Eletricista SR*
-    - *Tecnico Eletricista PL*
-    - *Técnico Eletricista*
+    - *Analista SR Automação*   - (outubro/2015   .. atual)
+    - *Técnico Automação SR*    - (abril/2012     .. setembro/2015)        
+    - *Técnico Eletricista SR*  - (abril/2010     .. março/2012)
+    - *Tecnico Eletricista PL*  - (março/2009     .. março/2010)
+    - *Técnico Eletricista*     - (fevereiro/2008 .. março/2009)
 
 + **Mineração Maracá**
 
-    - *Eletricista*
+    - *Eletricista*             - (outubro/2006   .. fevereiro/2008)
 
 + **Companhia CedroNorte**
 
-    - *Eletricista*
+    - *Eletricista*             - (agosto/2005    .. setembro/2006)
