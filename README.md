@@ -112,7 +112,7 @@ tecnologias e protocolos disponíveis no mercado.
 
 ## Formação Acadêmica
 
-+ **Pós emAutomação Industrial**
++ **Pós em Automação Industrial**
     + Unversidade Candido Mendes - Abril/2019
 
 + **Graduação Sistemas de Informação**
@@ -121,3 +121,56 @@ tecnologias e protocolos disponíveis no mercado.
 + **Ténico em Eletrotécnica**
     + Escola Técnica Alto Médio São Francisco - Dezembro/2005
 
+## Cursos e Treinamentos
+
++ 2020 - Data Analysis Using Python
+    Carga Horária: On Demand
+    IBM
++ 2020 - Node-Red: basics to bots
+    Carga Horária: On Demand
+    IBM
++ 2020 - Python for Data Science
+    Carga Horária: On Demand
+    IBM
++ 2013 - Building Pi System Assets and Analytics with PU AF 
+    Carga horária: 32h
+    OSISoft Sistemas
++ 2012 - Fundamentos de Segurança: Exame 98-367
+    Carga horária: 16h
+    Microsoft
++ 2012 - CLP AC 500 Módulo Avançado
+    Carga horária: 40h
+    ABB
++ 2012 - Introdução ao Active Directory
+    Carga horária: 16h
+    Microsoft
++ 2012 - 10140A - Config., Gerenc. Man. Windows Server 2008
+    Carga horária: 40h
+    Zillion Treinamentos
++ 2012 - HTML5- Homologado pelo W3C
+    Carga horária: 16h
+    Microsoft
++ 2012 - Instalando e configurando o Hyper-V
+    Carga horária: 2012h).
+    Microsoft
++ 2012 - CLP AC 500 Módulo Básico
+    Carga horária: 40h
+    ABB
++ 2012 - Novas Tecnologias e Benefícios da Virtualização
+    Carga horária: 8h
+    Associação Brasileira de Metalurgia, Materiais e Mineração
++ 2011 - Manutenção e Operação do Sistema de Supervisão, Proteção e Controle da ABB
+    Carga horária: 40h
+    Followup Engenharia
++ 2010 - Relés de Proteção ABB - REF610 e REA10x
+    Carga horária: 16h
+    ABB
++ 2010 - Relés de Proteção e Controle ABB - REB670, REC670, RED670, REL670 e RET670
+    Carga horária: 40h
+    ABB
++ 2007 - Instrumentação para Moinhos
+    Carga horária: 4h
+    Metso Brasil
++ 2006 - Software de Programação Concept
+    Carga horária: 16h).
+    Schneider Electric, SCH, Brasil
