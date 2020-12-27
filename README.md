@@ -48,16 +48,6 @@ tecnologias e protocolos disponíveis no mercado.
     - *Inversores de frequência de baixa e média tensão*
     - *Relés inteligentes de baixa e média tensão*
 
-+ **Projetos desenvolvidos:**
-
-    - *Desenvolvido chatbot com Telegram para visualização de dados de processo*
-    - *KPIs para malhas de controle usando PI AF/Coresight*
-    - *Integração de balanças de precisão Mettler Toledo com sistemas PIMS/MES*
-    - *Integração de medidores MINEO(combustíveis) com sistema PIMS*
-    - *Integração de medidores Veeder-Root(lubrificantes) com sistema PIMS*
-    - *Utilização de Telegram como envio de notificações baseados com dados de processo*
-    - *Integrado software Concept(Schneider) para visualização de eventos em tempo real* 
-
 ## Experiência Profissional
 
 + **Kinross Brasil Mineração**
@@ -173,4 +163,21 @@ tecnologias e protocolos disponíveis no mercado.
     - Metso Brasil
 + **2006 - Software de Programação Concept**
     - Carga horária: 16h).
-    - Schneider Electric, SCH, Brasil
+    - Schneider Electric, SCH, Brasil]
+
+## Projetos Desenvolvidos
+
++ **Desenvolvido chatbot com Telegram para visualização de dados de processo**
+    + *Utilizado Node Red, APIs, HTTP Requests, Banco de dados MongoDB*
++ **KPIs para malhas de controle usando PI AF/Coresight**
+    + *Utilizado PI AF Server/Analysis para criação e visualização dos KPIs das malhas de controle*
++ **Integração de balanças de precisão Mettler Toledo com sistemas PIMS/MES**
+    + *Utilizado Node Red, Webserices, Websocket, Python HTTP Requests*
++ **Integração de medidores MINEO(combustíveis) com sistema PIMS**
+    + *Utilizado Node Red, APIs, HTTP Requests, Grafana, Influxdb*
++ **Integração de medidores Veeder-Root(lubrificantes) com sistema PIMS**
+    + *Utilizado Node Red, APIs, HTTP Requests, Grafana, Influxdb*
++ **Utilização de Telegram como envio de notificações baseados com dados de processo**
+    + *Utilizado Node Red, APIs, HTTP Requests*
++ **Integrado software Concept(Schneider) para visualização de eventos em tempo real**
+    + *Utilizado Node Red*
