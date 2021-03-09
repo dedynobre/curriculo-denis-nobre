@@ -47,8 +47,7 @@ if(n === true ){
         if(car === ref_barra){
             
             pes_barra = itens[x].Peso_x0020_Barra
-            
-            
+     
         }
     }
 
