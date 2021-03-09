@@ -52,7 +52,10 @@ tecnologias e protocolos disponíveis no mercado.
 
 + **Kinross Brasil Mineração**
 
-    - *Analista SR Automação*   - (outubro/2015   .. atual)
+    - *Especialista em Automação* - (Março/2021  .. atual)
+       
+        
+    - *Analista SR Automação*   - (outubro/2015   .. Fevereiro/2021)
         - Administração sistema PIMS.
         - Administração sistema MES.
         - Integração de sistemas e aplicações usando python/javascript/nodejs.
