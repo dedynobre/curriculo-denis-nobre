@@ -105,6 +105,10 @@ tecnologias e protocolos disponíveis no mercado.
 
 ## Formação Acadêmica
 
++ **Mestrando em Ciência da Computação**
+    + UNIFACCAMP - Previsão 2023
+    + Área de Concentração: Machine Learning, Neural Network
+
 + **Especialização em Automação Industrial**
     + Unversidade Candido Mendes - Abril/2019
 
